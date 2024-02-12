@@ -16,8 +16,8 @@ Todas as funcionalidades do Sistema contem o gerenciamento de dados, sendo possi
 
 #######################################################################################
 Credenciais de Acesso:
-Foi disponibilizado um arquivo com o Script do SQL, contendo a criação das tabelas, e a inclusão do primeiro usuario para poder realizar o acesso do Sistema, sendo assim o
-Usuario: ADM
+Foi disponibilizado um arquivo com o Script do SQL, contendo a criação das tabelas, e a inclusão do primeiro usuario para poder realizar o acesso do Sistema, sendo assim o: </br>
+Usuario: ADM </br>
 Senha: 123
 
 #######################################################################################
